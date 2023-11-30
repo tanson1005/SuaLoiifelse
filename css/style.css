@@ -1,0 +1,20 @@
+body {
+    background-image: url(..//img/Dragon-Ball-Dragon-Ball-Super-Ultra-Instinct-Son-Goku-1457475-wallhere.com.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    opacity: 1;
+}
+
+.form-container {
+    width: 100%;
+    max-width: 600px;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+}
+.header{
+    color: coral;
+}
